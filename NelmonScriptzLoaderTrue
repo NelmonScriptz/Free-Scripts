@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NelmonScriptz/Free-Scripts/refs/heads/main/Elected%20Admin%20Auto%20farm%20Credits", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NelmonScriptz/Free-Scripts/refs/heads/find/NelmonScriptzLoaderObf", true))()
